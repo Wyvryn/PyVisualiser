@@ -1,0 +1,7 @@
+On program run, a dialog box should appear
+Selecting File from the top bar and clicking "Select a File" should cause a 
+    File select box to pop up. Find and select a monophonic wave file
+In the lower bar, the name of the file and its path should be displayed
+After a few seconds, audio will begin to play and you should see the graphic
+    changing to the beat of the music
+Click the 'x' in the corner of the program should close it.
